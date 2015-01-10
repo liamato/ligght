@@ -29,6 +29,7 @@
         "use-include-path": false,
         "preferred-install": "auto",
         "github-protocols": ["git", "https", "http"],
-        "optimize-autoloader": true,
-    }
+        "optimize-autoloader": true
+    },
+    "prefer-stable": true
 }
