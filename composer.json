@@ -31,5 +31,5 @@
         "github-protocols": ["git", "https", "http"],
         "optimize-autoloader": true,
     },
-    "prefer-stable": true,
+    "prefer-stable": true
 }
