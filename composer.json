@@ -1,7 +1,6 @@
 {
     "name": "liamato/ligght",
     "description": "The simple PHP router",
-    "version": "1.0.0",
     "keywords": ["router", "simple", "ligght", "routering"],
     "homepage": "https://github.com/liamato/ligght",
     "license": "BSD-3-Clause",
@@ -22,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ligght": "."
+            "ligght\\": "."
         }
     },
     "config": {
